@@ -13,10 +13,5 @@ function johnLennonFacts(facts) {
     newArray.push(facts[i] += "!!!")
     ++i
   }
-  console.log(newArray)
   return newArray
 }
-
-test = ['a','b','c']
-
-johnLennonFacts(test)
