@@ -4,4 +4,10 @@ function theBeatlesPlay(musicians, instruments) {
     myArray.push(`${musicians[i]} plays ${instruments[i]}`)
   }
   return myArray
+  console.log(myArray)
 }
+
+var first = [1,2,3,4,5]
+var second = ['a','b','c','d','e']
+
+theBeatlesPlay(first, second)
