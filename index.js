@@ -25,4 +25,4 @@ function iLoveTheBeatles(n) {
   return myArray
 }
 
-iLoveTheBetles(4)
+iLoveTheBeatles(4)
