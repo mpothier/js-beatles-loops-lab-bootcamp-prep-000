@@ -19,10 +19,8 @@ function iLoveTheBeatles(n) {
   var myArray = []
   do {
     myArray.push("I love the Beatles!");
-    n++;
+    ++n;
   } while (n < 5);
   console.log(myArray)
   return myArray
 }
-
-iLoveTheBeatles(4)
